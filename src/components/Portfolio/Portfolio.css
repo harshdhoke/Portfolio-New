@@ -56,7 +56,6 @@
 
 @media (max-width: 500px) {
   
-  /* modify the styles for the slider to be appropriate for small screens */
   .portfolio-slider {
     width: 100%;
     height: auto;
@@ -84,7 +83,6 @@
         padding-bottom: 10rem;
         gap: 0rem;
       }
-      /* adjust the styles for screens with a width less than or equal to 480px */
     .t-wrapper {
     padding: 0;
     }

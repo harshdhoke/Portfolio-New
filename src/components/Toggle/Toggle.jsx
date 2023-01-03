@@ -15,8 +15,6 @@ const Toggle = () => {
     <div className="toggle" onClick={handleClick}>
       <Sun />
       <Moon />
-      {/*                              toggle.css mein left ki property aik assign hy ussy delete
-                                          krna hy pehly */}
       <div
         className="t-button"
         style={darkMode ? { right: "2px" } : { left: "2px" }}
