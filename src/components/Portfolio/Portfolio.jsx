@@ -34,7 +34,7 @@ const Portfolio = () => {
           </a>
         </SwiperSlide>
         <SwiperSlide>
-          <a href="https://harsh-dhoke-portfolio.netlify.app/">
+          <a href="https://harsh-dhoke-portfolio.vercel.app/">
           <img src={Portfolio_New} alt="" />
           </a>
         </SwiperSlide>
